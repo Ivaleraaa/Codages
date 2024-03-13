@@ -1,1 +1,11 @@
-<link href="" rel="stylesheet" type="text/css">
+<link href="https://github.com/Ivaleraaa/Codages/blob/main/jjk/stylesheet-jjk.css" rel="stylesheet" type="text/css">
+<div class="BOX">
+<img id="ENTETE" src="https://i.servimg.com/u/f86/20/54/83/96/_quanx10.png">
+
+<div class="TITRE-RP">
+<div class="BAR"></div>
+<div class="TITRE">TITRE AHOU</div>
+<div class="BAR"></div>
+</div><div class="CONTENU" style="padding-left:5%; padding-right:5%; padding-top:0%; padding-bottom:2%; color:#F5F5F5; font-family: 'Roboto Slab', serif;">
+    
+</div></div><!--CREDIT--><div class="CREDIT"><a id="CREDIT" href="https://linktr.ee/ivaleraaa">Handn</a></div>

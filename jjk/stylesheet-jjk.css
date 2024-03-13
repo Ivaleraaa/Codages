@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Roboto+Slab:wght@100..900&display=swap');
+.BOX{
+    background:#2B2321; 
+    border-radius:15px; 
+    width: 100%; 
+    margin: auto">
+}
+#ENTETE{
+    width: 100%; 
+    height: auto; 
+    border-top: solid white; 
+    border-bottom: solid white
+}
+.TITRE-RP{
+    display: flex; 
+    align-items: center; 
+    width: 100%;
+}
+.BAR{
+    flex-grow: 1; 
+    height: 2px; 
+    background-color: #F5F5F5; 
+    margin-right: 1%; 
+    margin-left: 5%;
+}
+.TITRE{font-family: Courgette, cursive; 
+    font-weight: 400; 
+    font-style: normal; 
+    color: #F5F5F5; 
+    margin-left: 3%; 
+    margin-right: 3%; 
+    font-size: 2em;
+}
+.CONTENU{
+    padding-left:5%; 
+    padding-right:5%; 
+    padding-top:0%; 
+    padding-bottom:2%; 
+    color:#F5F5F5; 
+    font-family: 'Roboto Slab', serif;
+}
+.CREDIT{
+    text-align:center
+}
+#CREDIT{font-size:0.7em;
+    font-family:'Roboto Slab';
+}
