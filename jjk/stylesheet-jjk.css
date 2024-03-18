@@ -16,12 +16,19 @@
     align-items: center; 
     width: 100%;
 }
-.BAR{
+.BAR-G{
     flex-grow: 1; 
     height: 2px; 
     background-color: #F5F5F5; 
     margin-right: 1%; 
     margin-left: 5%;
+}
+.BAR-D{
+    flex-grow: 1; 
+    height: 2px; 
+    background-color: #F5F5F5; 
+    margin-left: 1%; 
+    margin-right: 5%;
 }
 .TITRE{font-family: Courgette, cursive; 
     font-weight: 400; 
