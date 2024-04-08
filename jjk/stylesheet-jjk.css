@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Roboto+Slab:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Roboto+Slab:wght@100..900&Josefin+Slab:ital,wght@0,100..700;1,100..700&display=swap');
 .BOX{
     background:#2B2321; 
     border-radius:15px; 
@@ -50,6 +50,7 @@
     text-align:center
 }
 #TH{
+    font-family: 'Josefin Slab', serif;
     color: #D0BC49;
     font-style: italic;
 }
