@@ -1,4 +1,4 @@
-<link href="https://raw.githack.com/Ivaleraaa/Codages/main/jjk/stylesheet-jjk.css" rel="stylesheet" type="text/css"><div class="BOX">
+<link href="https://rawcdn.githack.com/Ivaleraaa/Codages/4fcc3f08bf74882b77c29bb6fa5158a3520db5c1/jjk/stylesheet-jjk.css" rel="stylesheet" type="text/css"><div class="BOX">
 <img id="ENTETE" src="https://i.servimg.com/u/f86/20/54/83/96/_quanx10.png">
 
 <div class="TITRE-RP">
