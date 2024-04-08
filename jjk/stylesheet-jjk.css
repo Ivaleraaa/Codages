@@ -3,7 +3,7 @@
     background:#2B2321; 
     border-radius:15px; 
     width: 100%; 
-    margin: auto">
+    margin: auto;
 }
 #ENTETE{
     width: 100%; 
@@ -48,6 +48,14 @@
 }
 .CREDIT{
     text-align:center
+}
+.TH{
+    font-style:italic;
+    color: #D0BC49;
+}
+.SP{
+    font-style:bold italic;
+    color: #D0BC49;
 }
 #CREDIT{font-size:0.7em;
     font-family:'Roboto Slab';
