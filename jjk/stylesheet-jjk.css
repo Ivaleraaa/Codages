@@ -51,9 +51,9 @@
 }
 #TH{
     color: #D0BC49;
-    font-size: 3em;
+    font-style: italic;
 }
-.SP{
+#SP{
     font-style:bold italic;
     color: #D0BC49;
 }
